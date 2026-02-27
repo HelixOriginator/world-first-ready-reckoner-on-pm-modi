@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://helixoriginator.github.io/world-first-ready-reckoner-on-pm-modi/sitemap.xml
